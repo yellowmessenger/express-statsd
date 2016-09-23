@@ -3,7 +3,7 @@
 ## Installation
 
 ``` bash
-npm install git+https://github.com/yellowmessenger/express-statsd.git#0.3.8 --save
+npm install git+https://github.com/yellowmessenger/express-statsd.git#0.3.9 --save
 ```
 
 ## Usage
